@@ -1,3 +1,5 @@
+<strong>Note:</strong> The ownership of this project has been transferred from GitHub user [Torpedo2648](https://github.com/Torpedo2648) to the GitHub organization [M-E-AGI-Lab](https://github.com/M-E-AGI-Lab). Please update your links and references accordingly.
+
 <div align="center">
 
 <h1>PSAlign: Personalized Safety Alignment for Text-to-Image Diffusion Models</h1>
