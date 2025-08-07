@@ -15,7 +15,7 @@ Yu Lei, Jinbin Bai<sup>†</sup>, Qingyu Shi, Aosong Feng, Kaidong Yu<sup>‡</s
 </div>
 
 <p align="center">
-<img width="500" alt="image" src="./assets/demo.png"/>
+<img width="500" alt="image" src="./demo.png"/>
 </p>
 
 ## 🧠 Overview
