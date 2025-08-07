@@ -1,4 +1,4 @@
-<strong>Note:</strong> The ownership of this project has been transferred from [Torpedo2648](https://github.com/Torpedo2648) to organization [M-E-AGI-Lab](https://github.com/M-E-AGI-Lab). Please update your links and references accordingly.
+<strong>Note:</strong> The ownership of this project has been transferred from [torpedo2003](https://github.com/torpedo2003) to organization [M-E-AGI-Lab](https://github.com/M-E-AGI-Lab). Please update your links and references accordingly.
 
 ---
 
